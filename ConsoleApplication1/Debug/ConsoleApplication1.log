@@ -1,0 +1,25 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Hp\Desktop\poo cpp\vecteur\vecteur3D\vecteur3D.h(45,15): warning C4101: 'e' : variable locale non référencée
+C:\Users\Hp\Desktop\poo cpp\vecteur\vecteur3D\vecteur3D.h(38): message : pendant la compilation de la fonction membre classe modèle 'F Geom::vecteur<F>::at(unsigned int) const'
+          with
+          [
+              F=int
+          ]
+C:\Users\Hp\Desktop\poo cpp\vecteur\vecteur3D\vecteur3D.h(74): message : voir la référence à l'instanciation de la fonction modèle 'F Geom::vecteur<F>::at(unsigned int) const' en cours de compilation
+          with
+          [
+              F=int
+          ]
+C:\Users\Hp\Desktop\poo cpp\vecteur\vecteur3D\vecteur3D.h(31): message : pendant la compilation de la fonction membre classe modèle 'Geom::vecteur<int>::vecteur(F,F,F)'
+          with
+          [
+              F=int
+          ]
+C:\Users\Hp\Desktop\poo cpp\vecteur\ConsoleApplication1\ConsoleApplication1.cpp(12): message : voir la référence à l'instanciation de la fonction modèle 'Geom::vecteur<int>::vecteur(F,F,F)' en cours de compilation
+          with
+          [
+              F=int
+          ]
+C:\Users\Hp\Desktop\poo cpp\vecteur\ConsoleApplication1\ConsoleApplication1.cpp(12): message : voir la référence à l'instanciation classe modèle 'Geom::vecteur<int>' en cours de compilation
+C:\Users\Hp\Desktop\poo cpp\vecteur\vecteur3D\vecteur3D.h(49): warning C4715: 'Geom::vecteur<int>::at' : les chemins de contrôle ne retournent pas tous une valeur
+  ConsoleApplication1.vcxproj -> C:\Users\Hp\Desktop\poo cpp\vecteur\Debug\ConsoleApplication1.exe
